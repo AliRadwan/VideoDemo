@@ -1,7 +1,6 @@
 # videoplayer
 
-A new Flutter project.
-
+ way to pay video in flutter 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
